@@ -1,0 +1,9 @@
+# Compiled binaries
+server_phase1
+server_phase2
+server_phase3
+server_phase4
+server_phase5
+server_phase6
+*.o
+*.log
